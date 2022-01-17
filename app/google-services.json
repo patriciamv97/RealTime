@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067489178059",
+    "project_id": "realtime-1c4ec",
+    "storage_bucket": "realtime-1c4ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067489178059:android:e9951e39a0d797e188064e",
+        "android_client_info": {
+          "package_name": "com.dam2a.realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067489178059-qqts1tfmbpbj1iq67f9nvqoud9tclbci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1HaIC06JS_phwtDAkqVvDtpE6I6ZRVPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067489178059-qqts1tfmbpbj1iq67f9nvqoud9tclbci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
